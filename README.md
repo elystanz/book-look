@@ -14,9 +14,9 @@ This web app is designed to help you find any book you can think of! Just search
 If you've cloned the repository, open your terminal and enter `npm i` to install all required dependencies. Run `npm start` to begin the server and view the portfolio!
 
 ## <a id="application">Application</a>
-Here is the application in use:
+Here is the application in use, beginning with the initial error that occurs as of this push:
 
-
+![book-look](https://user-images.githubusercontent.com/95983252/179903419-6669b622-4f21-48df-9cb8-51472d1d1d55.gif)
 
 This application requires the following dependencies to run, which are already declared within the SERVER package.json file:
 
